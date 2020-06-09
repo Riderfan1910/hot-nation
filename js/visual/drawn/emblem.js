@@ -1,7 +1,7 @@
 let Emblem = new function() {
 
     let image;
-    let loaded = true;
+    let loaded = false;
     let currentRadius;
 
     let jqWindow;
